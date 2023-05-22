@@ -1,2 +1,3 @@
 # BotW-mods
-All of my ready-to-install BotW mods.
+All of my ready-to-install BotW mods, hosted in one location for reliable downloading.
+Note that tools I have created for making BotW mods are hosted on their own repos.
